@@ -1,0 +1,11 @@
+<?php
+
+namespace DummyNamespace;
+
+use App\Repositories\Crud\CrudInterface;
+
+interface DummyClass extends CrudInterface
+{
+	public function create($data);
+	public function update($data, $id);
+}

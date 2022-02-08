@@ -1,0 +1,13 @@
+{
+    "name": "EmploymentSalaryType",
+    "alias": "employmentsalarytype",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EmploymentSalaryType\\Providers\\EmploymentSalaryTypeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "EmailSetting",
+    "alias": "emailsetting",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EmailSetting\\Providers\\EmailSettingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

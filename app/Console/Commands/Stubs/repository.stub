@@ -1,0 +1,23 @@
+<?php
+
+namespace DummyNamespace;
+
+use Modules\MModel\Entities\MModel;
+use App\Repositories\Crud\CrudRepository;
+
+class DummyClass extends CrudRepository implements MModelInterface
+{
+   public function __construct(MModel $model)
+	{
+		$this->model = $model;
+	}
+	public function create($data)
+	{
+		$detail = $this->model->create($data);
+		return $detail;
+	}
+	public function update($data, $id)
+	{
+		return $this->model->find($id)->update($data);
+	}
+}

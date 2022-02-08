@@ -1,0 +1,13 @@
+{
+    "name": "Jobcategory",
+    "alias": "jobcategory",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Jobcategory\\Providers\\JobcategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

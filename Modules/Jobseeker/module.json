@@ -1,0 +1,13 @@
+{
+    "name": "Jobseeker",
+    "alias": "jobseeker",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Jobseeker\\Providers\\JobseekerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

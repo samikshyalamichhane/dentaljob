@@ -1,0 +1,1 @@
+[17-May-2021 12:37:01 Asia/Kathmandu] PHP Fatal error:  Cannot use temporary expression in write context in /home5/webtest1/dentaluk.webhouse.com.np/dentaljobonline.com/Modules/Front/Http/Controllers/FrontController.php on line 267

@@ -1,0 +1,13 @@
+<?php
+
+namespace DummyNamespace;
+
+use App\Repositories\MModel\MModelRepository;
+
+class DummyClass
+{
+   public function __construct(MModelRepository $model)
+   {
+      $this->model = $model;
+   }
+}

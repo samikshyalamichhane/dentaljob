@@ -1,0 +1,20 @@
+{
+    "Dashboard": true,
+    "Blog": false,
+    "AdminUser": true,
+    "Jobcategory": true,
+    "Page": true,
+    "Setting": true,
+    "User": true,
+    "Employer": true,
+    "Jobseeker": true,
+    "Job": true,
+    "Jobs": true,
+    "Migration": true,
+    "EmploymentSalaryType": true,
+    "ModelAdditionalDocument": true,
+    "Front": true,
+    "Advertisement": true,
+    "EmailSetting": true,
+    "Title": true
+}
